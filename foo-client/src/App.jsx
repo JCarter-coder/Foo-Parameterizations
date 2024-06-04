@@ -1,6 +1,9 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useEffect, useState } from 'react';
+import Header from "./components/Header.jsx";
+import ModuleContainer from "./components/ModuleContainer.jsx";
+import RightContainer from "./components/RightContainer.jsx";
+//import reactLogo from './assets/react.svg'
+//import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
@@ -8,7 +11,14 @@ function App() {
 
   return (
     <>
-      <div>
+      <Header />
+      <div id='main-container'>
+        <ModuleContainer />
+        <RightContainer />
+      </div>
+      
+
+      {/* <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
@@ -27,7 +37,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-      </p>
+      </p> */}
     </>
   )
 }
