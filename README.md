@@ -50,6 +50,6 @@ Run the application locally:
   - `Template_Phys.jsx`: To be used for the interactive portion of the module.
   - `template.js`: stores applicable functions or classes for the module. Could be copied for use in outside software packages.
 
-  ## Summary
+## Summary
 
-  Developers can create new modules by copying and pasting the `.js` and `.jsx` files from the template folder (`./components/modules/template`) into a new folder and renaming the respective `.js` and `.jsx` files. The `.jsx` renders the component in the browser and imports from the `.js` file any applicable functions for that module. 
+Developers can create new modules by copying and pasting the `.js` and `.jsx` files from the template folder (`./components/modules/template`) into a new folder and renaming the respective `.js` and `.jsx` files. The `.jsx` renders the component in the browser and imports from the `.js` file any applicable functions for that module. 
