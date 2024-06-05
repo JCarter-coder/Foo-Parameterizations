@@ -40,7 +40,7 @@ Run the application locally:
 - **ModuleSelector.jsx**: Select the various modules loaded by community.
 - **ModuleContainer.jsx**: The selected module is rendered here.
 - **RightContainer.jsx**: Could be used for supporting references, graphics, etc. applicable to the module.
-- **modules folder**: This is where modules are contained. A template folder within this folder can be used for future ideas.
-- **template folder**
-- `Template_Phys.jsx`: To be used for the interactive portion of the module.
-- `template.js`: stores applicable functions or classes for the module. Could be copied for use in outside software packages.
+- *modules folder*: This is where modules are contained. A template folder within this folder can be used for future ideas.
+- *template folder*:
+  - `Template_Phys.jsx`: To be used for the interactive portion of the module.
+  - `template.js`: stores applicable functions or classes for the module. Could be copied for use in outside software packages.
