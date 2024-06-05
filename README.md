@@ -25,13 +25,18 @@ This project was an exercise in creating a repository for various modules that c
 
 ## Installation
 
+Fork and clone this repository.
+
 Navigate to the client folder:
+
 `./foo-client`
 
-Install node packages:
+Install node packages by running:
+
 `npm install`
 
 Run the application locally:
+
 `npm run dev`
 
 ## File Structure
