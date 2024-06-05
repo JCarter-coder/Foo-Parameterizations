@@ -53,3 +53,5 @@ Run the application locally:
 ## Summary
 
 Developers can create new modules by copying and pasting the `.js` and `.jsx` files from the template folder (`./components/modules/template`) into a new folder and renaming the respective `.js` and `.jsx` files. The `.jsx` renders the component in the browser and imports from the `.js` file any applicable functions for that module. 
+
+The right container titled 'Supporting Information' could be used to implement supporting information with links to various references. It could also be used to implement future features, such as graphical interfaces using technologies like d3.js to model the various modules as applicable.
