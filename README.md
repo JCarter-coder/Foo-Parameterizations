@@ -6,8 +6,11 @@ https://foo-modules.vercel.app/
 
 ### Screenshots
 
-![Screenshot 1]()
+![Screenshot 1](https://github.com/JCarter-coder/Foo-Parameterizations/blob/main/foo-client/src/assets/img/Foo_Module_pic1.png?raw=true)
 
+![Screenshot 2](https://github.com/JCarter-coder/Foo-Parameterizations/blob/main/foo-client/src/assets/img/Foo_Module_pic2.png?raw=true)
+
+![Screenshot 3](https://github.com/JCarter-coder/Foo-Parameterizations/blob/main/foo-client/src/assets/img/Foo_Module_pic3.png?raw=true)
 
 # Application Overview
 
