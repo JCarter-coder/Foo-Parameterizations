@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { LoremIpsum } from "lorem-ipsum";
 
 const lorem = new LoremIpsum({
@@ -14,12 +13,12 @@ const lorem = new LoremIpsum({
 
 const paragraphs = lorem.generateParagraphs(3);
 
-function RightContainer({}) {
+const RightContainer = ({}) => {
     //
     return (
         <div id="right-container">
             <div className="card">
-                <h2>Right Container</h2>
+                <h2>Supporting Information</h2>
                 <div className="card">
                     {paragraphs}
                 </div>

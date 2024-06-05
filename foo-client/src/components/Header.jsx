@@ -1,11 +1,14 @@
 import { useState } from "react";
 
-function Header({}) {
+const Header = () => {
     //
     return (
-        <div id="header">
-            <h1>FOO MODULES</h1>
-        </div>
+        <>
+            <div id="header">
+                <h1>FOO MODULES</h1>
+            </div>
+        </>
+        
     )
 }
 

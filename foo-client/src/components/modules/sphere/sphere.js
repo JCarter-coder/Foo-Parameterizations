@@ -1,5 +1,5 @@
 function sphere(radius) {
-    return Math.PI * radius**2;
+    return 4/3 * Math.PI * radius**3;
 }
 
 export default sphere;
