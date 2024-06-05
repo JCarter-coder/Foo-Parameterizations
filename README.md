@@ -6,6 +6,8 @@ https://foo-modules.vercel.app/
 
 ### Screenshots
 
+![Screenshot 1]()
+
 
 # Application Overview
 
@@ -19,6 +21,15 @@ This project was an exercise in creating a repository for various modules that c
 - **Lorem-Ipsum**: Used to create placeholder text which aids in visual layout without being distracted by content
 
 ## Installation
+
+Navigate to the client folder:
+```./foo-client```
+
+Install node packages:
+```npm install```
+
+Run the application locally:
+```npm run dev```
 
 ## File Structure
 
